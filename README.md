@@ -1,8 +1,7 @@
 # Jeu Windows : Wakfu Reborn 
 Création d'un fan game non officiel du jeu Wakfu TCG abandonné par [Ankama](https://www.ankama.com/fr)
 
-## Version actuelle
-# 1.0.2
+## Version actuelle : 1.0.2
 Historique des modifications : changelog.md
 
 ## Développeur(s)
@@ -10,6 +9,7 @@ Historique des modifications : changelog.md
 
 ## Langages
 - Dart
+- C++ (only for compiler)
 
 ## Démarrage
 - Créer un éxécutable :
